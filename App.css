@@ -1,0 +1,29 @@
+.stack {
+  width: 100%;
+}
+
+
+
+/* RAM */
+
+.color1 {
+  margin: 10px;
+  padding: 50px;
+}
+
+.addlist {
+  display: flex;
+  flex-direction: column;
+  margin: 50px;
+  padding: 20px;
+  gap: 1rem;
+
+}
+
+
+.basicform {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+
+}
